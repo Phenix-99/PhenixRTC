@@ -1,0 +1,24 @@
+{
+  "name": "phenixrtc",
+  "version": "0.1.0",
+  "description": "PhenixRTC is third party lib wich make WebRTC easy and fun to use !",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "RTC",
+    "Phenix",
+    "PhenixRTC",
+    "WebRTC",
+    "Real",
+    "Time",
+    "Communication",
+    "Chat",
+    "Video",
+    "Audio",
+    "Call"
+  ],
+  "author": "Mahmoud (Phenix)",
+  "license": "MIT"
+}
